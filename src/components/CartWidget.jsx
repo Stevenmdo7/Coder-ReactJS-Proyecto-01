@@ -6,7 +6,7 @@ function CartWidget() {
     <div className="cart-widget">
       <a href="#" className="cart-link">
         <img src={logoUrl} alt="Logo del carrito" className="cart-logo" />
-        <span className="badge bg-danger">3</span>
+        <span className="badge bg-danger"></span>
       </a>
     </div>
   );
